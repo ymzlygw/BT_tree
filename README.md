@@ -13,11 +13,6 @@ An example of Behavior Tree using Python
 
 
 
-
-
-
-
-
 ## 設定
 * 自分のHP　150
 * 敵HP　120
@@ -30,3 +25,6 @@ An example of Behavior Tree using Python
 
 * output
 * 各行動結果をprint
+
+
+![iamge](image/image.png)
